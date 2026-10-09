@@ -4,7 +4,7 @@ Responsive vefsíða um sex staði á Gullna hringnum og í nágrenni hans: Glj�
 
 ## Skoða vefinn
 
-[Opna vefinn á GitHub Pages](https://pizzasaucelinger.github.io/verkefni-7/index.html)
+[Jacob Már](https://pizzasaucelinger.github.io/verkefni-7/index.html)
 
 Vefurinn er gerður úr HTML og CSS og þarf ekki að setja upp pakka. Nettenging þarf fyrir Google Maps, leturgerðir og myndir frá Wikimedia Commons.
 

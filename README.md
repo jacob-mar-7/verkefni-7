@@ -18,7 +18,7 @@ Vefurinn er gerður úr HTML og CSS og þarf ekki að setja upp pakka. Nettengin
 
 ## GitHub Pages
 
-Vefurinn er birtur frá `main`-greininni úr rót repository-ins. Forsíðan er aðgengileg á [pizzasaucelinger.github.io/verkefni-7/index.html](https://pizzasaucelinger.github.io/verkefni-7/index.html).
+Vefurinn er birtur frá `main`-greininni úr rót repository-ins. Forsíðan er aðgengileg á [Jacob Már](https://pizzasaucelinger.github.io/verkefni-7/index.html).
 
 ## Verkefniskröfur sem eru útfærðar
 
